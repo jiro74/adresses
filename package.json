@@ -1,0 +1,27 @@
+{
+  "name": "adresse-geocoder",
+  "version": "1.0.0",
+  "description": "\"geocodage-web\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiro74/adresses.git"
+  },
+  "keywords": [
+    "geocodage",
+    "adresse",
+    "web"
+  ],
+  "author": "Meguenni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiro74/adresses/issues"
+  },
+  "homepage": "https://github.com/jiro74/adresses#readme",
+  "dependencies": {
+    "pelias-config": "^5.2.0"
+  }
+}
